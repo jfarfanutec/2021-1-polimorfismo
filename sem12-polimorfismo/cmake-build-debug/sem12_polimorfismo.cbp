@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sem12_polimorfismo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sem12_polimorfismo">
+				<Option output="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/sem12_polimorfismo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem12_polimorfismo"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sem12_polimorfismo/fast">
+				<Option output="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/sem12_polimorfismo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 sem12_polimorfismo/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/AbstractAstro.h">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Astro.cpp">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Astro.h">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Cometa.cpp">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Cometa.h">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Estrella.cpp">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Estrella.h">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Planeta.cpp">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Planeta.h">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/Tipos.h">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/main.cpp">
+			<Option target="sem12_polimorfismo"/>
+		</Unit>
+		<Unit filename="C:/Users/jfarfan/CLionProjects/sem12-polimorfismo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

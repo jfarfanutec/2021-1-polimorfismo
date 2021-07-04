@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm2/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm2/array.h
+tipos.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm2/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm2/main.cpp
+iostream
+-
+iostream
+-
+array.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm2/array.h
+Tipos.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm2/Tipos.h
+

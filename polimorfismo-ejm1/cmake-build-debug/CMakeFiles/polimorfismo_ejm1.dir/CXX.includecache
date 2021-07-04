@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm1/Funciones.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm1/main.cpp
+iostream
+-
+Funciones.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-ejm1/Funciones.h
+

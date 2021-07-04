@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/AbstractPoligono.h
+Tipos.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Elipse.h
+Poligono.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Poligono.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Paralelograma.h
+Poligono.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Poligono.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Poligono.h
+AbstractPoligono.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/AbstractPoligono.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Triangulo.h
+Poligono.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Poligono.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/main.cpp
+iostream
+-
+vector
+-
+Poligono.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Poligono.h
+Triangulo.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Triangulo.h
+Elipse.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Elipse.h
+Paralelograma.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-tipos/Paralelograma.h
+

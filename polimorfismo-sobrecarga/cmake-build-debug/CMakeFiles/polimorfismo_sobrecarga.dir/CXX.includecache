@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/Alumno.cpp
+Alumno.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/Alumno.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/Alumno.h
+tipos.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/funciones.h
+tipos.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/main.cpp
+iostream
+-
+funciones.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/funciones.h
+Alumno.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/Alumno.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-sobrecarga/tipos.h
+

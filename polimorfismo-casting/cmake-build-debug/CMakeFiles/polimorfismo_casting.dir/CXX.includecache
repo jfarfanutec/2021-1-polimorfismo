@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-casting/main.cpp
+iostream
+-
+tipos.h
+C:/Users/jfarfan/CLionProjects/polimorfismo-casting/tipos.h
+
+C:/Users/jfarfan/CLionProjects/polimorfismo-casting/tipos.h
+
